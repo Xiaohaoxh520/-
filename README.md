@@ -3,7 +3,7 @@
 #拥有美国、新加坡、日本、韩国的节点,可以高速的观看视频，并且免费
 #至少免费也够一个人的需求了，月限制3GB流量啦哈哈哈
 # NFS的作者是Fifcom，他的GitHub网址是
-☆www.github.com/fifcom
+☆https://github.com/fifcom
 # NFS现在因为原作者高三已经停止服务
 ○此处的SSR节点来源于付费的Skloud，目前学生没有太大经济来源
 # 请不要花费太多流量，将心比心
