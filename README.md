@@ -1,5 +1,6 @@
 # XHCloud云加速软件(VPN)
-#这是一个基于ShadowsSocksR、NFS的科（翻）学（墙）上网软件
+#这是一个基于ShadowsSocksR、NFS的科（翻）学（墙）上网软件，适用于Windows操作系统
+○适用系统：Windows XP/Longhorn/Vista/7/8/10丨Windows server 2003/2008/2012/2016/2019
 #拥有美国、新加坡、日本、韩国的节点,可以高速的观看视频，并且免费
 #至少免费也够一个人的需求了，月限制3GB流量啦哈哈哈
 # NFS的作者是Fifcom，他的GitHub网址是
