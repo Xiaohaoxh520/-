@@ -1,4 +1,4 @@
-# XHCloud
+# XHCloud云加速软件(VPN)
 这是一个基于ShadowsSocksR、NFS的科学上网软件
 拥有美国、新加坡、日本、韩国的节点
 可以高速的观看视频，并且免费
